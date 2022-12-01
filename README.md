@@ -1,3 +1,6 @@
+![01](https://user-images.githubusercontent.com/104038066/205092028-88f89313-776e-4259-9e85-9ccf16aa3c9d.png)
+
+
 <h1 align="center">Hi 👋, I'm Pedro Nunes</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
