@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedroicn&label=Profile%20views&color=0e75b6&style=flat" alt="pedroicn" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroicn" alt="pedroicn" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pedroicn" alt="pedroicn" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pedroicn](https://github.com/Pedroicn)
 
