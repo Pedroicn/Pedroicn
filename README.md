@@ -10,7 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pedroicn](https://github.com/Pedroicn)
 
-- 📫 How to reach me [https://www.pedronunesdev.com/](https://www.pedronunesdev.com/)
+- 📫 How to reach me **contato@pedronunesdev.com**
+
+- 🚀 My portfolio [https://www.pedronunesdev.com/](https://www.pedronunesdev.com/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
