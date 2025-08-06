@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroicn&" alt="pedroicn" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pedroicn&bg_color=000000&color=ffffff&line=000000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
